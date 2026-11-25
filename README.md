@@ -1,10 +1,7 @@
 # **MDGCL**
 ## Multi-view dynamic graph contrastive learning for complex disease-noncoding RNA association prediction
 
-* MDGCL is a multi-view dynamic graph contrastive learning model designed for predicting associations between complex diseases
-* and noncoding RNAs. It integrates biological heterogeneous graph construction, multi-view representation extraction, dynamic
-* feature aggregation, and contrastive-supervised joint learning to capture attribute and topology information for enhanced
-* generalization and prediction performance.
+* MDGCL is a multi-view dynamic graph contrastive learning model designed for predicting associations between complex diseases and noncoding RNAs. It integrates biological heterogeneous graph construction, multi-view representation extraction, dynamic feature aggregation, and contrastive-supervised joint learning to capture attribute and topology information for enhanced generalization and prediction performance.
 
 ## Key Features
 * (1)Construction of the biological heterogeneous graph; 2) Multi-view representation extraction module;
